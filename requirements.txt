@@ -10,7 +10,9 @@ djangorestframework==3.16.1
 dnspython==2.8.0
 eventlet==0.40.4
 greenlet==3.3.0
+gunicorn==23.0.0
 idna==3.11
+packaging==25.0
 psycopg2-binary==2.9.11
 python-decouple==3.8
 redis==7.1.0
